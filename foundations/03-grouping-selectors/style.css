@@ -1,0 +1,14 @@
+.normal.inverse {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+
+.normal {
+  color: white;
+  background-color: black;
+}
+
+.inverse {
+  color: black;
+  background-color: yellow;
+}
